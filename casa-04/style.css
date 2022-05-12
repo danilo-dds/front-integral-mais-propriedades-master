@@ -1,0 +1,35 @@
+body {
+    background: #456392;
+    font-family: 'Mulish', sans-serif;
+
+}
+
+div {
+    background: #FFFFFF;
+    border-radius: 20px;
+    text-align: center;
+    max-width: 608px;
+    margin: 30px auto;
+    padding-top: 64px;
+    padding-bottom: 90px;
+}
+
+img {
+    background: url(image.png);
+    border-radius: 50%;
+    border: 16px solid #ECF3FC;
+    margin-bottom: 44px;
+    margin-top: 64px;
+}
+
+h1 {
+    font-size: 48px;
+    margin-bottom: 5px;
+}
+
+samp,
+p {
+    font-size: 36px;
+    margin-top: 92px;
+    margin-bottom: 90px;
+}
