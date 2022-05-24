@@ -1,0 +1,48 @@
+.card {
+    padding: 55px;
+    margin: 0px auto;
+    text-align: center;
+}
+
+.call-to-action {
+    background: rgb(9, 24, 63, 0.5);
+    box-shadow: 0px 14px 25px -10px rgba(9, 24, 63, 0.17);
+    border-radius: 10px;
+    color: #ffff;
+    max-width: 645px;
+
+}
+
+.produto {
+    max-width: 505px;
+    background-color: #ffff;
+
+}
+
+h1 {
+    font-family: 'Merriweather', serif;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 46px;
+    margin-bottom: 10px;
+}
+
+p {
+    font-family: 'Mulish', sans-serif;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 28px;
+    margin-bottom: 25px;
+}
+
+a {
+    text-decoration: none;
+    color: #ffff;
+    font-family: 'Mulish', sans-serif;
+    background: #FF8E4F;
+    border-radius: 50px;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 24px;
+    padding: 9px 30px;
+}
